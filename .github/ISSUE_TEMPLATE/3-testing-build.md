@@ -3,8 +3,6 @@ name: "🛠️ Build, testing and automation"
 about: System improvements or new capabilities
 ---
 
-# 🛠️ build, testing and automation
-
 ### Description
 
 <!-- ✍️ -->

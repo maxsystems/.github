@@ -3,8 +3,6 @@ name: "🚀 Feature request"
 about: New or improved user-facing functionality
 ---
 
-# 🚀 feature request
-
 ### Context
 
 <!-- ✍️ -->

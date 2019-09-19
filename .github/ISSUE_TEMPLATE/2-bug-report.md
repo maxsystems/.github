@@ -3,8 +3,6 @@ name: "🐛 Bug report"
 about: Whoops, something went wrong...
 ---
 
-# 🐛 bug report
-
 ### Description
 
 <!-- ✍️ -->

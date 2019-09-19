@@ -3,8 +3,6 @@ name: "🚧 Technical debt"
 about: Things we should tackle later
 ---
 
-# 🚧 technical debt
-
 ### Description
 
 <!-- ✍️ -->
