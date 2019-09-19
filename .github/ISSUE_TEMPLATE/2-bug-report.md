@@ -20,9 +20,11 @@ A clear and concise description of the problem...
 2. When possible provide enough specificity that anybody can reproduce.
 3.
 
-**Expected vs Actual Behavior:**
+**Expected Behavior:**
 <!-- ✍️ -->
-Describe the difference between the expected and actual behavior...
+
+**Actual Behavior:**
+<!-- ✍️ -->
 
 ### Screenshot
 
