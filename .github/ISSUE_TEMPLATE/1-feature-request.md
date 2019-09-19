@@ -1,5 +1,6 @@
 ---
 name: "🚀 Feature request"
+labels: "type: feat"
 about: New or improved user-facing functionality
 ---
 

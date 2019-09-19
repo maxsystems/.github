@@ -1,5 +1,6 @@
 ---
 name: "🐛 Bug report"
+labels: "type: fix"
 about: Whoops, something went wrong...
 ---
 
