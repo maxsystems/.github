@@ -4,9 +4,7 @@ labels: "type: feat"
 about: New or improved user-facing functionality
 ---
 
-### Context
-
-<!-- ✍️ -->
+<!-- ✍️ Context -->
 A brief description of the requested functionality from the persona or business value perspective. This should be written in language that a non-technical stakeholder can understand and should remain free of implementation details whenever possible. Sufficient context should be provided to any surrounding functionality to allow any team member to pick up the story without having to cross-reference other issues.
 
 ### How to Demo

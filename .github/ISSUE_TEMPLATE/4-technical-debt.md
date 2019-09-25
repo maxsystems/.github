@@ -3,10 +3,7 @@ name: "🚧 Technical debt"
 about: Things we should tackle later
 ---
 
-### Description
-
-<!-- ✍️ -->
-A clear and concise description of the problem or missing capability...
+<!-- ✍️ Provide a clear and concise description of the problem or missing capability -->
 
 ### Prioritization or important milestones
 

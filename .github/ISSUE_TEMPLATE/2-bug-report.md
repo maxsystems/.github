@@ -4,10 +4,7 @@ labels: "type: fix"
 about: Whoops, something went wrong...
 ---
 
-### Description
-
-<!-- ✍️ -->
-A clear and concise description of the problem...
+<!-- ✍️ Provide a clear and concise description of the problem -->
 
 ### Minimal Reproduction
 
@@ -42,8 +39,10 @@ If the exception was caught by Sentry, paste the link to that exception.
 
 ### Your Environment
 
-**Browser and Operating System:**
-<!-- ✍️ -->
+**Browser:** <!-- ✍️ -->
+**Operating system:** <!-- ✍️ -->
+**Reproducible on other systems?:** <!-- ✍️ Yes/No -->
 
-**Anything else relevant?**
+### Anything else relevant?
+
 <!-- ✍️ -->

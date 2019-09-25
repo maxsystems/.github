@@ -3,10 +3,7 @@ name: "🛠️ Build, testing and automation"
 about: System improvements or new capabilities
 ---
 
-### Description
-
-<!-- ✍️ -->
-A clear and concise description of the problem or missing capability...
+<!-- ✍️ Provide a clear and concise description of the problem or missing capability -->
 
 ### Describe the solution you'd like
 
