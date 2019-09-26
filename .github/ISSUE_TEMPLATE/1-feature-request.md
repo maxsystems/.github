@@ -22,6 +22,19 @@ A brief description of the requested functionality from the persona or business 
 - Additional context from a technical perspective can be bulleted here.
 - Naming expectations for model properties, variables, etc. should be clearly defined when important.
 
+### Implementation resources
+
+<!-- ✍️ Link to relevant resources for implementation, remove sections that don't apply  -->
+
+**Design**
+<!-- ✍️ Figma link(s) -->
+
+**Architecture**
+<!-- ✍️ Diagrams or other overview -->
+
+**References and Prior Art**
+<!-- ✍️ Documentation or links to similar implementations -->
+
 #### Tasks
 
 <!-- ✍️ -->
