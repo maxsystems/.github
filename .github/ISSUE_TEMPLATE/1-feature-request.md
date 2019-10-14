@@ -11,7 +11,7 @@ A brief description of the requested functionality from the persona or business 
 
 <!-- ✍️ -->
 1. These steps represent acceptance criteria for the work being performed.
-2. This should remain free of highly technical instruction when possible so that a non-technical user can follow.
+2. Avoid highly technical instruction so that a non-technical user can follow.
 3. These steps should be written from the perspective of the persona this story has been written for.
 
 ### Requirements
@@ -35,7 +35,7 @@ A brief description of the requested functionality from the persona or business 
 **References and Prior Art**
 <!-- ✍️ Documentation or links to similar implementations -->
 
-#### Tasks
+### Tasks
 
 <!-- ✍️ -->
 - [ ] A checklist to the developer representing the steps necessary to implement.
