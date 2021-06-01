@@ -6,12 +6,7 @@
 
 ### Relevant issues
 
-<!-- ✍️ Tag any relevant issues or links for context
-  Issues in the same repo can be linked by issue number ex. #123
-  Issues in another repository need the org and repo ex. maxsystems/ui#123
-  If merging this issue completes the issue, use the "Closes" keyword to automatically close the parent issue ex. Closes #123
-  Otherwise, paste a link to any relevant task details or remove this section entirely.
--->
+<!-- ✍️ Tag any relevant GitHub issues, JIRA tickets, or paste links for additional context -->
 
 ## What is the current behavior?
 
