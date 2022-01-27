@@ -18,13 +18,7 @@
 
 ### How to Test
 
-- Describe via screen share recording or screenshots and text how to _manually_ test the new behavior.
-- Where applicable, include example queries, CLI commands, URLs to hit, UI elements to click, etc.
-  - Include expected results.
-  - Indicate if authorization is required.
-- The "happy path" should be included at the very least. Additional scenarios are encouraged.
-  - It is up to the code reviewers to go beyond the "happy path."
-  - It is up to the author to perform thorough manual testing before submitting a PR.
+<!-- ✍️ Describe how to _manually_ test the new behavior -->
 
 ## Other information
 
