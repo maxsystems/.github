@@ -16,6 +16,10 @@
 
 <!-- ✍️ Describe or provide screenshots of the changes introduced -->
 
+### How to Test
+
+<!-- ✍️ Describe how to _manually_ test the new behavior -->
+
 ## Other information
 
 <!-- ✍️ Any additional context into the problem or why you solved it in the way you did -->
