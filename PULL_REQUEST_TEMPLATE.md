@@ -16,13 +16,15 @@
 
 <!-- ✍️ Describe or provide screenshots of the changes introduced -->
 
-### How to Test
-
-<!-- ✍️ Describe how to _manually_ test the new behavior -->
-
 ## Other information
 
 <!-- ✍️ Any additional context into the problem or why you solved it in the way you did -->
+
+### Notes for testing
+
+<!-- ✍️ Note any example queries for the backend, authorization needs, and
+       any special conditions to be aware of when testing. This should augment
+       but not replace the How to Demo steps in the requirements -->
 
 **Does this PR introduce a breaking change?** <!-- ✍️ Yes/No -->
 <!-- ✍️ If necessary, please describe the impact and migration path -->
