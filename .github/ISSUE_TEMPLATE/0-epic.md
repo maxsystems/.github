@@ -15,11 +15,11 @@ The requirements document can be linked below for additional information.
 
 <!-- ✍️ Link to relevant resources for implementation, remove sections that don't apply  -->
 
-**Requirements document**
+#### Requirements document
 <!-- ✍️ Requirements -->
 
-**Design**
+#### Design
 <!-- ✍️ Figma link(s) -->
 
-**Architecture**
+#### Architecture
 <!-- ✍️ Diagrams or other overview -->

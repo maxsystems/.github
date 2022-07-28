@@ -15,7 +15,7 @@ A brief description of the requested functionality from the persona or business 
 <!-- ✍️ Define the user and their goal -->
 As a __target user__ I want to __describe goal__ so that __business value__.
 
-**Kano category**
+#### Kano category
 <!-- ✍️ Delighter/Performance/Baseline -->
 
 ### For research and discussion
@@ -28,13 +28,13 @@ _1. High level theory or question to be researched_
 
 <!-- ✍️ Link to relevant resources, remove sections that don't apply  -->
 
-**Business requirements**
+#### Business requirements
 <!-- ✍️ Link to "big picture" business requirement documents -->
 
-**References and Prior Art**
+#### References and Prior Art
 <!-- ✍️ Link to designs, patterns and other prior art for reference -->
 
-**Relevant issues**
+#### Relevant issues
 <!-- ✍️ Tag any relevant GitHub issues for context -->
 
 ## Deliverables

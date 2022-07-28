@@ -11,16 +11,16 @@ about: Whoops, something went wrong...
 **Affected URL:**
 <!-- ✍️ -->
 
-**Steps to Reproduce:**
+#### Steps to Reproduce:
 <!-- ✍️ -->
 1. The bug should be reproducible by following these steps.
 2. When possible provide enough specificity that anybody can reproduce.
 3.
 
-**Expected Behavior:**
+#### Expected Behavior:
 <!-- ✍️ -->
 
-**Actual Behavior:**
+#### Actual Behavior:
 <!-- ✍️ -->
 
 ### Screenshot
