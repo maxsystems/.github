@@ -26,13 +26,13 @@ A brief description of the requested functionality from the persona or business 
 
 <!-- ✍️ Link to relevant resources for implementation, remove sections that don't apply  -->
 
-**Design**
+#### Design
 <!-- ✍️ Figma link(s) -->
 
-**Architecture**
+#### Architecture
 <!-- ✍️ Diagrams or other overview -->
 
-**References and Prior Art**
+#### References and Prior Art
 <!-- ✍️ Documentation or links to similar implementations -->
 
 ### Tasks
