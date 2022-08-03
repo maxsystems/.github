@@ -11,15 +11,15 @@ the most relevant information from an implementation standpoint.
 
 The requirements document can be linked below for additional information.
 
-### Implementation resources
+### <a id="resources" />[#](#user-content-resources) Implementation resources
 
 <!-- ✍️ Link to relevant resources for implementation, remove sections that don't apply  -->
 
-**Requirements document**
+#### <a id="reqs" />[#](#user-content-reqs) Requirements document
 <!-- ✍️ Requirements -->
 
-**Design**
+#### <a id="design" />[#](#user-content-design) Design
 <!-- ✍️ Figma link(s) -->
 
-**Architecture**
+#### <a id="architecture" />[#](#user-content-architecture) Architecture
 <!-- ✍️ Diagrams or other overview -->
