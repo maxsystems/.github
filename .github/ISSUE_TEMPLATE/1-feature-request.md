@@ -34,14 +34,3 @@ A brief description of the requested functionality from the persona or business 
 
 #### <a id="refs" />[#](#user-content-refs) References and Prior Art
 <!-- ✍️ Documentation or links to similar implementations -->
-
-###  <a id="tasks" />[#](#user-content-tasks) Tasks
-
-<!-- ✍️ -->
-- [ ] A checklist to the developer representing the steps necessary to implement.
-- [ ] Can be more technical in nature since these are developer-facing.
-- **Known blockers can be called out in the task list and removed when satisfied**
-- [ ] No single task should take longer than one day to complete.
-- [ ] The assignee should attempt to limit tasks in progress the same way we limit stories in progress.
-- [ ] As each task is completed it should be checked off to provide high level status.
-- [ ] Serves as a leading indicator to the progress made on this story.
