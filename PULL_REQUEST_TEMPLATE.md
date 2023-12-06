@@ -1,4 +1,7 @@
 <!-- ✍️
+  For detailed info, see PR Checklist for PR owner and reviewers: 
+  https://acvauctions.atlassian.net/wiki/x/3QIs7g
+
 - [x] Please check using "x" if your PR fulfills the following requirements -->
 - [ ] The title of the PR is formatted according to the semantic commit guidelines
 - [ ] Tests for the changes have been added (for bug fixes / features)
