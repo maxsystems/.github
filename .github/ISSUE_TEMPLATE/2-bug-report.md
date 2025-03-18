@@ -34,7 +34,7 @@ Do not attach screenshots of console errors, copy and paste them below.
 <!-- ✍️ -->
 ```
 If there are console errors or an accompanying stack-trace, paste that here.
-If the exception was caught by Sentry, paste the link to that exception.
+If the exception was caught by Datadog, paste the link to that exception.
 ```
 
 ### <a id="env" />[#](#user-content-env) Your Environment
